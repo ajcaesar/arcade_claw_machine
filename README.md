@@ -1,1 +1,1 @@
-an ELE's childhood shenanigans. Here's the video: https://drive.google.com/file/d/1obrRc9rNsD04WiVDTe_Kekj-50wOGUwN/view
+an ELE's childhood shenanigans. Uses servos for all functions. Claw I made out of scrapwood and a slice of a copper pipe. gantry was made with some linear rods (i think meant for a cnc machine). Two servos control a band that attaches to the slide holding the claw which gives it 360 degrees motion. Here's the video: https://drive.google.com/file/d/1obrRc9rNsD04WiVDTe_Kekj-50wOGUwN/view
